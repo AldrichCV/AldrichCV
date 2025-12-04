@@ -65,7 +65,7 @@ Come along with me in my journey to become a **full-stack developer**, mastering
   𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 </h3>
 
-<div align="left">
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldrichCV&theme=nightowl" alt="GitHub Streak">
 
 </div>
